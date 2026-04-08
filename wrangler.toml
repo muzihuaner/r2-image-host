@@ -3,13 +3,13 @@ main = "src/worker.js"
 compatibility_date = "2024-01-01"
 
 [vars]
-R2_PUBLIC_DOMAIN = "https://image.20250530.space"
+R2_PUBLIC_DOMAIN = "https://imgs.quickso.cn"
 
 # KV 命名空间绑定
 [[kv_namespaces]]
 binding = "INDEXES_KV"
-id = "bcb414d8957047c6afce7434145285f5"
-preview_id = "bcb414d8957047c6afce7434145285f5"
+id = "a4e550b84d3d478886c5cb9153a561c0"
+preview_id = "a4e550b84d3d478886c5cb9153a561c0"
 
 # R2 存储桶绑定
 [[r2_buckets]]
